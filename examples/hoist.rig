@@ -1,0 +1,9 @@
+# Chain hoist on a gin pole, 4-part purchase
+name = Gin pole hoist
+load = 1200 kg
+lift = 10 m
+reeving = 4
+sheaves = 4
+sheave_efficiency = 96%
+rope_wll = 2000 kg
+min_safety = 5

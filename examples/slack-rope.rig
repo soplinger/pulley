@@ -1,0 +1,9 @@
+# Same hoist, but on an old rope
+name = Slack-rope hoist
+load = 1200 kg
+lift = 10 m
+reeving = 4
+sheaves = 4
+sheave_efficiency = 0.96
+rope_wll = 1000 kg
+min_safety = 5

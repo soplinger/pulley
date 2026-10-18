@@ -1,0 +1,8 @@
+name = Typo rig
+load = 1200 kg
+lift = 10 furlongs
+reeving = 0
+sheaves = 4
+sheave_eficiency = 96%
+rope_wll = 2000 kg
+load = 900 kg
